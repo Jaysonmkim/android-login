@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginJayson</string>
+    <string name="title_activity_jay">Jay</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator_activities">CalculatorActivities</string>
+    <string name="title_activity_simple_list">SimpleListActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_custom_list">CustomListActivity</string>
+</resources>
